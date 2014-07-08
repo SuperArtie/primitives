@@ -1,12 +1,12 @@
 //this is a single line comment
-//
 
-/* this
- * is
- *  an
- *  awesome(!!!)
- *  multiline
- *  comment
+/*  the
+ *  contrabulous
+ *  fabtraption
+ *  of
+ *  professor
+ *  horatio
+ *  hufnagel
  */
 
 var a = 3;
@@ -24,9 +24,9 @@ console.log(z);
 var first = 'sally';
 var last = 'smith';
 var fullName = first + ' ' + last;
-console.log(fullName);
 console.log(first);
 console.log(last);
+console.log(fullName);
 
 var d = Math.pow(2,8);
 console.log("2^8 ===", d);
@@ -50,7 +50,7 @@ if(age >= 21)
 }
 else
 {
-  console.log('you can't drink');
+  console.log("you can't drink");
 }
 
 // if/else ladder for movie age restrictions
@@ -106,9 +106,7 @@ switch(color)
     break;
 }
 
-
-//WHILE LOOP
-
+//while loop
 var a = 1;
 
 while(a < 10)
@@ -122,19 +120,3 @@ for(var i = 0; i <10; i++)
 {
   console.log("i === ", i);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

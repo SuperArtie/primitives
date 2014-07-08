@@ -3,7 +3,8 @@
 
 /* this
  * is
- *  a
+ *  an
+ *  awesome(!!!)
  *  multiline
  *  comment
  */
